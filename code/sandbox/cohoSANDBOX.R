@@ -35,3 +35,8 @@ coho$day <- dates$day
 coho$month[coho$month == 1] <- 13
 
 coho_foot <- coho %>% filter(`Survey Type Name`=="FOOT")
+
+# who's at the mouth and when..
+coho_mouth <- coho[c(6:8, 14, 19:22)]
+  # lots of 0s
+coho_mouth <- coho_mouth %>% filter(`Mouth Count`>0)
