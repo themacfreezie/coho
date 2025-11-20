@@ -1,0 +1,54 @@
+Name,Active?,Location,Organization,Date start,Date End,QCd date start,QCd date end,Latitude,Longitude,Comments
+Hetta,?,POW,Kai Environmental,7/17/2014,2/9/2018,7/17/2014,8/2/2017,55.171367,-132.570733,"have not heard from Cathy since ~spring 2021, need to switch out a logger for them. All accounted, seems active. ""Combined files goes to 2019, but the last year of data are office temperatures. 2018 is squirrelly."
+Leask,N,CSI,Ketchikan Indian Community,6/12/2018,3/8/2023,,,55.519440,-131.522500,ended; duplicative of USGS site
+Mahoney,P,CSI,Ketchikan Indian Community,6/13/2018,4/9/2023,,,55.419720,-131.536700,paused - we pulled dead loggers and didn't get new ones in.
+Nadzaheen,Y,CSI,Metlakatla Indian Community,6/9/2022,9/13/2023,6/9/2022,11/17/2022,55.24034534,-131.4901313,
+Moss Point,Y,CSI,Metlakatla Indian Community,5/25/2022,10/27/2023,5/25/2022,4/20/2023,55.02665735,-131.5574844,
+Hemlock,Y,CSI,Metlakatla Indian Community,5/26/2022,10/26/2023,5/26/2022,4/20/2023,55.17181435,-131.5574353,
+Kwain,Y,CSI,Metlakatla Indian Community,6/25/2022,5/9/2023,6/25/2022,9/20/2022,55.08550471,-131.3790053,
+Annette Point,Y,CSI,Metlakatla Indian Community,6/24/2022,10/13/2023,6/24/2022,9/21/2022,55.01746592,-131.4007893,
+South Trout,Y,CSI,Metlakatla Indian Community,7/26/2022,10/11/2023,7/26/2022,10/20/2022,55.13190735,-131.4643609,
+North Trout,Y,CSI,Metlakatla Indian Community,6/20/2023,10/11/2023,,,55.1353988,-131.4602022,
+South Fork Inlet,Y,POW,Southeast Alaska Watershed Coalition,7/8/2021,7/14/2022,,,55.48277000,-132.91370100,
+Inlet Creek,Y,POW,Southeast Alaska Watershed Coalition,7/5/2021,7/14/2022,,,55.48341200,-132.91309600,
+Bluewater,Y,POW,Southeast Alaska Watershed Coalition,7/5/2021,9/15/2023,,,55.48717300,-132.91472900,
+Threemile,Y,POW,Southeast Alaska Watershed Coalition,7/5/2021,7/14/2022,,,55.53218300,-133.00097600,
+Klawock River,Y,POW,Southeast Alaska Watershed Coalition,7/8/2021,9/15/2023,,,55.54867800,-133.04872800,
+7 Mile,Y,POW,Southeast Alaska Watershed Coalition,7/8/2021,9/14/2023,,,55.49762900,-132.93750200,
+Hatchery (Klawock Lake),Y,POW,Southeast Alaska Watershed Coalition,7/15/2022,,,,55.52994300,-133.03300300,no data retrieved yet
+Salmon Salad,Y,POW,Southeast Alaska Watershed Coalition,7/15/2022,,,,55.49048600,-132.93900000,no data retrieved yet
+Tye,Y,POW,Southeast Alaska Watershed Coalition,9/13/2023,,,,55.76527,-133.042917,
+Calvin,Y,POW,Southeast Alaska Watershed Coalition,9/13/2023,,,,55.772096,-133.064102,
+Fossil,Y,POW,Southeast Alaska Watershed Coalition,9/13/2023,,,,55.797793,-133.104184,
+Slash,Y,POW,Southeast Alaska Watershed Coalition,9/13/2023,,,,55.786014,-133.054419,
+Hydra,Y,POW,Southeast Alaska Watershed Coalition,9/13/2023,,,,55.779006,-133.065634,
+Orpheus,Y,POW,Southeast Alaska Watershed Coalition,9/13/2023,,,,55.797701,-133.100102,
+Nakat Creek,?,CSI,Southern Southeast Regional Aquatculture Association,4/1/2019,4/5/2021,,,54.90671667,-130.72611667,haven't qcd yet
+Neets Creek,?,CSI,Southern Southeast Regional Aquatculture Association,4/1/2019,3/5/2020,,,55.7868,-131.488237,haven't qcd yet
+East Carroll,?,CSI,Southern Southeast Regional Aquatculture Association,4/1/2019,8/16/2021,,,55.63990500,-131.35412700,haven't qcd yet
+Kah Sheets,N,CSI,US Forest Service,6/23/3014,5/12/2015,8/23/2014,3/29/2017,56.53042,-133.14586,both loggers went missing in 2021. decommissioned after repeated losses.
+Eleven mile,N,POW,US Forest Service,6/23/2014,6/29/2022,5/15/2015,6/28/2018,55.58611,-133.27843,Decommissioned 6/29/22
+Luck Creek,N,POW,US Forest Service,9/7/2014,5/22/2018,,,55.921725,-132.765085,This was at a FS gage site that was decommissioned. ADFG had/has one there now?
+Old Toms,N,POW,US Forest Service,10/1/2013,6/25/2019,10/1/2013,9/18/2015,55.39555556,-132.4069444,decommissioned USGS/FS gage site w/ temp data 2003-2019. now on private timber property
+Twelve Mile (POW),N,POW,US Forest Service,,,,,55.34293,-132.73562,I don't have data yet. FS monitored for a few years and stopped. Will send data
+Anan,Y,CSI,US Forest Service,6/9/2014,4/20/21,6/17/2014,4/20/2021,56.179238,-131.881943,"10333094 missing 11/1/17-6/17/18, 9932548 has temp anomoly cell 5880 and gap between 05/26/17-06/07/2018"
+Bedrock,Y,CSI,US Forest Service,6/23/2014,6/14/22,6/30/2014,1/17/2022,56.624936,-132.886908,gap 7/2/20-4/14/21
+Castle,Y,CSI,US Forest Service,6/23/2014,5/26/2021,6/28/2014,5/26/2021,56.641683,-133.2668,
+Japanese,Y,CSI,US Forest Service,6/23/2014,8/29/2020,7/2/2014,11/14/2023,56.774483,-132.605278,
+Lunch,Y,CSI,US Forest Service,6/9/2014,4/1/2022,6/25/2014,4/1/2022,56.196674,-132.159115,gap between 12/04/2017 - 01/03/2018
+Ohmer,Y,CSI,US Forest Service,2/19/2015,6/14/2022,2/19/2015,6/14/2022,56.582597,-132.72971,
+Signal,Y,CSI,US Forest Service,9/6/2014,4/1/2022,,,55.407917,-131.70075,gap between 12/04/2017 - 01/03/2018; lots of data issues in this set.
+Thoms,Y,CSI,US Forest Service,6/9/2014,5/12/2017,6/17/2014,5/12/2017,56.196674,-132.159115,"last update was in 04/21, roads closed to location; FS reported that WCA has taken over monitoring here, but I haven't received any more data"
+Rio Roberts,Y,POW,US Forest Service,6/23/2014,5/11/2022,7/3/2014,5/11/2022,55.70031,-132.77365,
+Staney_USGS,Y,POW,USGS/USFS,10/1/2007,3/14/2024,10/1/2007,11/14/2022,55.80123134,-133.1102972,FS-USGS coop station
+Harris,Y,POW,USGS/USFS,10/21/2019,3/13/2024,,,55.45931667,-132.716261,FS-USGS coop station
+TwelveMile(USGS PSG),Y,CSI,USGS,5/27/2021,current,,,56.9682723,-133.06978,
+Leask_USGS,Y,CSI,USGS/DOT,6/7/2017,current,,,55.51930452,-131.5243991,
+Hatchery_USGS,Y,POW,USGS/DOT,10/25/2016,3/14/2024,10/25/2016,11/14/2022,55.90861111,-132.9308333,
+McCormack,Y,CSI,Wrangell Cooperative Association,7/18/2018,6/15/2019,7/18/2018,6/15/2019,56.31160498,-132.33836100,Need to connect with Alex again about this
+Pat Creek,Y,CSI,Wrangell Cooperative Association,7/18/2018,6/15/2019,,,56.36384,-132.31145,Need to connect with Alex again about this
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
